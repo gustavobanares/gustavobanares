@@ -6,7 +6,9 @@ About me
 I'm a developer with a passion for learning new tools and techniques, and I love sharing my knowledge with the community.
 
 🌱 I'm currently learning: JavaScript
+
 🎓 Training: Systems Analysis and Development - Anhanguera
+
 🌐 Languages: Portuguese, English and Spanish
 
 <!--
