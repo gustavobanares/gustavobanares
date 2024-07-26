@@ -1,4 +1,4 @@
-Hello, I'm Gustavo Bañares from Bacco!
+Hello, I'm Gustavo Bañares de Bacco!
 
 Welcome to my GitHub! I am an enthusiastic developer with a passion for creating innovative and efficient solutions. Here you will find a collection of projects that reflect my journey and learning in the world of programming.
 
