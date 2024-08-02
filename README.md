@@ -7,7 +7,7 @@ I'm a developer with a passion for learning new tools and techniques, and I love
 
 🌱 I'm currently learning: JavaScript
 
-🎓 Training: Systems Analysis and Development - Anhanguera
+🎓 Graduated: Systems Analysis and Development - Anhanguera
 
 🌐 Languages: Portuguese, English and Spanish
 
