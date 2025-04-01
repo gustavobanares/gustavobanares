@@ -2,13 +2,15 @@
 
 ## 🧑🏻‍💻 About Me  
 
-I'm a Full Stack Software Developer with 1 year of experience in building scalable and high-performance applications.
+I'm a Junior Software Engineer with 1+ years of experience in building scalable and high-performance applications. I specialize in **JavaScript**, **TypeScript**, **React**, and **Node.js**, developing robust solutions that enhance user experience and system efficiency.
+
+I enjoy solving complex problems, optimizing workflows, and continuously learning about new technologies.
 
 ### 📌 **Current Role:**  
 - 💻 **Front-end Engineer Junior** at zDevs (Startup) 
 
 ### 🎓 **Education:**  
-- 🎓 **Systems Analysis and Development** (Anhanguera)  
+- 🎓 **Systems Analysis and Development**, Anhanguera - (2021 - 2023) 
 
 ### 📩 **Let's connect!**  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/gustavobanares/  
