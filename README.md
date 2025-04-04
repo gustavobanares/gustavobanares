@@ -35,8 +35,10 @@ I enjoy solving complex problems, optimizing workflows, and continuously learnin
 ### **Databases & Cloud**  
 <p>
   <img title="PostgreSQL" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" />
+  <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
   <img title="Prisma ORM" alt="Prisma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
   <img title="Docker" alt="Docker" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
+
 </p>
 
 ### **Dev & Testing**  
