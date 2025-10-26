@@ -2,12 +2,12 @@
 
 ## 🧑🏻‍💻 About Me  
 
-I'm a Junior Software Engineer with 1+ years of experience in building scalable and high-performance applications. I specialize in **JavaScript**, **TypeScript**, **React**, and **Node.js**, developing robust solutions that enhance user experience and system efficiency.
+I'm a Full Stack Developer building scalable and high-performance applications. I specialize in **JavaScript**, **TypeScript**, **React**, and **Node.js**, developing robust solutions that enhance user experience and system efficiency.
 
 I enjoy solving complex problems, optimizing workflows, and continuously learning about new technologies.
 
 ### 📌 **Current Role:**  
-- 💻 **Full-Stack Engineer Junior** at PayXyz (Payment Startup)
+- 💻 **Full Stack Engineer** at PayXyz (Payment Startup)
 
 ### 🎓 **Education:**  
 - 🎓 **Systems Analysis and Development**, Anhanguera - (2021 - 2023) 
