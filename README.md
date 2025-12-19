@@ -2,7 +2,7 @@
 
 ## 🧑🏻‍💻 About Me  
 
-I'm a Full Stack Developer building scalable and high-performance applications. I specialize in **JavaScript**, **TypeScript**, **React**, and **Node.js**, developing robust solutions that enhance user experience and system efficiency.
+I'm a Full Stack Engineer building scalable and high-performance applications. I specialize in **JavaScript**, **TypeScript**, **React**, and **Node.js**, developing robust solutions that enhance user experience and system efficiency.
 
 I enjoy solving complex problems, optimizing workflows, and continuously learning about new technologies.
 
