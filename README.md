@@ -41,6 +41,8 @@ I enjoy solving complex problems, optimizing workflows, and continuously learnin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40">
   <img title="Prisma ORM" alt="Prisma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
   <img title="Docker" alt="Docker" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
+  <img title="AWS" alt="AWS" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" />
+  <img title="Terraform" alt="Terraform" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" />
 
 </p>
 
