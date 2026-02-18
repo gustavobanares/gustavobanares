@@ -59,5 +59,5 @@ I enjoy solving complex problems, optimizing workflows, and continuously learnin
 ## 📊 GitHub Stats  
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavobanares&show_icons=true&theme=holi" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gustavobanares&theme=blue-navy" />
 </p>
