@@ -13,8 +13,8 @@ I have been involved in the development of full web applications, with intuitive
 - 🎓 **Systems Analysis and Development**, Anhanguera - (2021 - 2023) 
 
 ### 📩 **Let's connect!**  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/gustavobanares/  
-- 📧 **Email:** [gustavobbacco@gmail.com](mailto:gustavobbacco@gmail.com)  
+- **LinkedIn:** https://www.linkedin.com/in/gustavobanares/  
+- **Email:** [gustavobbacco@gmail.com](mailto:gustavobbacco@gmail.com)  
 
 ---
 
