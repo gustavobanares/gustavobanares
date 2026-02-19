@@ -2,12 +2,12 @@
 
 ## 🧑🏻‍💻 About Me  
 
-I'm a Full Stack Engineer building scalable and high-performance applications. I specialize in **JavaScript**, **TypeScript**, **React**, and **Node.js**, developing robust solutions that enhance user experience and system efficiency.
+I am a Software Engineer with 2 years of experience working in startups.
 
-I enjoy solving complex problems, optimizing workflows, and continuously learning about new technologies.
+I have been involved in the development of full web applications, with intuitive and functional user interfaces. I participated in building systems from the ground up, including a payment system for vending machines, a SaaS ERP, and a CRM focused on business organization and management.
 
 ### 📌 **Current Role:**  
-- 💻 **Full Stack Engineer** at PayXyz (Payment Startup)
+- 💻 **Full Stack Developer** at PayXyz (Payment Startup)
 
 ### 🎓 **Education:**  
 - 🎓 **Systems Analysis and Development**, Anhanguera - (2021 - 2023) 
