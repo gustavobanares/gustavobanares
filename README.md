@@ -7,7 +7,7 @@ I am a Software Engineer with 2 years of experience working in startups.
 I have been involved in the development of full web applications, with intuitive and functional user interfaces. I participated in building systems from the ground up, including a payment system for vending machines, a SaaS ERP, and a CRM focused on business organization and management.
 
 ### 📌 **Current Role:**  
-- 💻 **Full Stack Developer** at PayXyz (Payment Startup)
+- 💻 **Full Stack Developer**
 
 ### 🎓 **Education:**  
 - 🎓 **Systems Analysis and Development**, Anhanguera - (2021 - 2023) 
