@@ -42,6 +42,7 @@ I have been involved in the development of full web applications, with intuitive
   <img title="Docker" alt="Docker" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
   <img title="AWS" alt="AWS" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" />
   <img title="Terraform" alt="Terraform" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" />
+  <img title="Kubernetes" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" />
 
 </p>
 
