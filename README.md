@@ -41,9 +41,16 @@ I have been involved in the development of full web applications, with intuitive
   <img title="Prisma ORM" alt="Prisma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
   <img title="Docker" alt="Docker" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
   <img title="AWS" alt="AWS" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" />
+
+</p>
+
+### **DevOps & Infrastructure**  
+<p>
   <img title="Terraform" alt="Terraform" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" />
   <img title="Kubernetes" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" />
-
+  <img title="Grafana" alt="Grafana" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" />
+  <img title="Loki" alt="Loki" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png" />
+  <img title="Prometheus" alt="Prometheus" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" />
 </p>
 
 ### **Dev & Testing**  
