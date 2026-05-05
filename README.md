@@ -2,12 +2,10 @@
 
 ## 🧑🏻‍💻 About Me  
 
-I am a Software Engineer with 2 years of experience working in startups.
-
-I have been involved in the development of full web applications, with intuitive and functional user interfaces. I participated in building systems from the ground up, including a payment system for vending machines, a SaaS ERP, and a CRM focused on business organization and management.
+I am a Software Engineer with experience in startups and high-growth companies, working with fullstack development and AI-driven automations. I have been involved in building systems from the ground up, including a multitenant SaaS ERP with data isolation, granular roles and Stripe integration, a CRM for sales management, and automation pipelines using AI for content generation and client onboarding.
 
 ### 📌 **Current Role:**  
-- 💻 **Full Stack Developer**
+- 💻 **Software Engineer**
 
 ### 🎓 **Education:**  
 - 🎓 **Systems Analysis and Development**, Anhanguera - (2021 - 2023) 
